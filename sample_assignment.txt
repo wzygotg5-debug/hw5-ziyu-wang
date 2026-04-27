@@ -1,0 +1,5 @@
+This is a sample assignment repository used to test the submission-readiness-checker skill.
+
+The skill checks whether a homework repository contains the required folder structure, README file, SKILL.md file, script folder, Python script, and video link.
+
+This file is only a supporting example.
