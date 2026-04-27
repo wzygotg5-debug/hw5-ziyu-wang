@@ -1,6 +1,6 @@
 # HW5: Submission Readiness Checker Skill
 
-Video walkthrough: Add your video link here
+Video walkthrough: https://youtu.be/bEOQ8N5iPXA
 
 ## What the skill does
 
@@ -25,7 +25,7 @@ cd ~/Desktop/hw5-ziyu-wang
 cat > README.md <<'EOF'
 # HW5: Submission Readiness Checker Skill
 
-Video walkthrough: Add your video link here
+Video walkthrough: https://youtu.be/bEOQ8N5iPXA
 
 ## What the skill does
 
